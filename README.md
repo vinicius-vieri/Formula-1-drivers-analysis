@@ -1,6 +1,5 @@
-![img](https://cdn.pixabay.com/photo/2013/03/22/23/37/ferrari-96052_960_720.png)
 # Formula 1 Drivers Analysis
-
+![img](https://cdn.pixabay.com/photo/2013/03/22/23/37/ferrari-96052_960_720.png)
 ## Introduction
 Formula 1, commonly abbreviated as F1, is the pinnacle of motorsport racing, known for its prestige, global popularity, and thrilling races. This repository explores an analysis of Formula 1 driver data, aiming to provide insights into various aspects of the sport. The dataset used for this analysis was obtained from Kaggle and covers a wide range of information about Formula 1 drivers.
 
